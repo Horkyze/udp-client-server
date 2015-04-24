@@ -142,7 +142,7 @@ try:
 		# 	except KeyboardInterrupt:
 		# 		print '\nYou are now in menu'
 
-		print "Reconfigure sender   (1)"
+		print "\nReconfigure sender   (1)"
 		print "Send                 (2)"
 		mode = int(raw_input('Select (2): ') or 2)
 		
